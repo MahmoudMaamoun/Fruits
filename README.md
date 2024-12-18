@@ -14,4 +14,4 @@ This SwiftUI project demonstrates how to create a simple application that featur
 
 <img src="https://github.com/user-attachments/assets/bacad261-f88e-4085-9dcd-933aaf40aff8" alt="Simulator Screenshot" width="375" height="812">
 
-
+<img src="https://github.com/user-attachments/assets/5b595c94-3fa8-4b48-a53d-d6cd80b8639e" alt="Simulator Screenshot" width="375" height="812">
